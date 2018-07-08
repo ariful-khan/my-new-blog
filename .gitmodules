@@ -1,0 +1,12 @@
+[submodule "themes/next"]
+	path = themes/next
+	url = https://github.com/theme-next/hexo-theme-next.git
+[submodule "themes/Nlvi"]
+	path = themes/Nlvi
+	url = https://github.com/colmugx/hexo-theme-Nlvi.git
+[submodule "themes/hexo-theme-autumn"]
+	path = themes/hexo-theme-autumn
+	url = https://github.com/FrontendSophie/hexo-theme-autumn.git
+[submodule "themes/hexo-theme-nayo"]
+	path = themes/hexo-theme-nayo
+	url = https://github.com/Lemonreds/hexo-theme-nayo.git
